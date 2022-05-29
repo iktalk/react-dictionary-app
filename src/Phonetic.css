@@ -4,12 +4,12 @@
 
 .Phonetic a {
   background-color: white;
-  border: 1px solid rgb(139, 136, 136);
-  border-radius: 15px;
-  padding: 8px;
+  border: 2px solid rgb(139, 136, 136);
+  padding: 9px;
   margin-right: 8px;
   text-decoration: none;
   color: rgb(255, 224, 165);
+  margin-left: 8px;
 }
 
 .Phonetic a:hover {

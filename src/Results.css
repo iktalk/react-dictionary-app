@@ -5,3 +5,8 @@
 .Results h1 {
   text-transform: capitalize;
 }
+
+.resultsHeader {
+  display: inline-flex;
+  justify-content: space-evenly;
+}
