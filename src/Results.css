@@ -10,3 +10,16 @@
   display: inline-flex;
   justify-content: space-evenly;
 }
+
+.Synonyms {
+  margin: 20px 0 0;
+  padding: 0;
+  text-transform: capitalize;
+}
+
+.Synonyms li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 15px;
+  margin-left: 35px;
+}

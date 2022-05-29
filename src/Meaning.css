@@ -1,3 +1,8 @@
+.Meaning h5,
+h6 {
+  margin-left: 55px;
+}
+
 .Meaning h3 {
   text-transform: capitalize;
 }
@@ -5,6 +10,7 @@
 .Meaning h4 {
   font-size: 20px;
   font-weight: normal;
+  list-style-type: disc;
 }
 
 .Meaning h5 {
