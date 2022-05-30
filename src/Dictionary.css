@@ -12,12 +12,26 @@
   border: 1px solid #ddd;
   border-radius: 6px;
   color: #333;
+  font-family: "Merriweather", serif;
 }
 
-.Dictionary .search-bar {
+.Dictionary p {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  line-height: 1;
+}
+
+.Dictionary .searchBar {
   width: 80%;
 }
 
-.Dictionary .search-button {
+.Dictionary .searchButton {
   width: 20%;
+  background-color: #015178;
+  color: #ddd;
+  transition: all 100s ease-in-out;
+}
+
+.searchButton :hover {
+  background-color: #3b87a6;
 }

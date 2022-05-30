@@ -46,16 +46,12 @@ export default function Dictionary() {
           <input
             type="search"
             onChange={handleKeywordChange}
-            className="search-bar"
+            className="searchBar"
             placeholder="search your word here"
             autoFocus="on"
           />
 
-          <input
-            type="button"
-            value="Search"
-            className="search-button btn btn-outline-info"
-          />
+          <input type="button" value="Search" className="searchButton" />
         </form>
       </section>
 
