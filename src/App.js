@@ -9,7 +9,12 @@ export default function App() {
         <header className="App-header">
           <h1 className="mb-5">
             {" "}
-            <a href="./index.html">Dictionary 📖</a>
+            <a href="./index.html">
+              Dictionary{" "}
+              <span role="img" aria-label="book emoji">
+                📖
+              </span>
+            </a>
           </h1>
         </header>
         <Dictionary />
