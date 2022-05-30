@@ -20,7 +20,11 @@ export default function App() {
         <Dictionary />
         <footer className="mt-5">
           This application was coded by Ishmeet Kaur and is Open-Source on{" "}
-          <a href="https://github.com/iktalk/react-dictionary-app.git">
+          <a
+            href="https://github.com/iktalk/react-dictionary-app.git"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Github
           </a>
         </footer>
